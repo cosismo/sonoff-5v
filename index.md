@@ -5,8 +5,7 @@ Bienvenido al Internet de las Cosas.
 
 Para comenzar a utilizar tu switch wifi Sonoff 5V y encontrar toda la información técnica, te recomendamos las siguientes ligas:
 
-Aplicación para control:
-
+### Aplicación para control:
 Android: https://play.google.com/store/apps/details?id=com.coolkit&hl=en
 IOS: App Store][https://itunes.apple.com/us/app/ewelink/id1035163158?mt=8
 

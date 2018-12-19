@@ -5,7 +5,8 @@ Bienvenido al Internet de las Cosas.
 Para comenzar a utilizar tu switch wifi Sonoff 5V y encontrar toda la información técnica, te recomendamos las siguientes ligas:
 
 Aplicación para control:
-Android: https://play.google.com/store/apps/details?id=com.coolkit&hl=en 
+
+Android: [https://play.google.com/store/apps/details?id=com.coolkit&hl=en]
 IOS: https://itunes.apple.com/us/app/ewelink/id1035163158?mt=8
 
 Guía rápida en Español sobre cómo conectar el Sonoff (documento PDF):
@@ -24,7 +25,8 @@ https://www.itead.cc/wiki/EWeLink_Introduction
 Instrucciones de la página oficial para hacer funcionar Sonoff con Amazon Alexa (inglés):
 https://www.itead.cc/blog/ewelink-works-with-alexa-tutorial#tutorial
 
-Instrucciones de la página oficial para hacer funcionar Sonoff con Google Home (inglés): https://www.itead.cc/blog/sonoff-work-with-google-home
+Instrucciones de la página oficial para hacer funcionar Sonoff con Google Home (inglés): 
+https://www.itead.cc/blog/sonoff-work-with-google-home
 
 Quedamos a tus órdenes por esta vía.
 ¡Suerte! 

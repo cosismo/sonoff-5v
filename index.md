@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+¡Gracias por tu compra! 
 
-You can use the [editor on GitHub](https://github.com/cosismo/sonoff-5v/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Bienvenido al Internet de las Cosas.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Para comenzar a utilizar tu switch wifi Sonoff 5V y encontrar toda la información técnica, te recomendamos las siguientes ligas:
 
-### Markdown
+Aplicación para control:
+Android: https://play.google.com/store/apps/details?id=com.coolkit&hl=en 
+IOS: https://itunes.apple.com/us/app/ewelink/id1035163158?mt=8
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Guía rápida en Español sobre cómo conectar el Sonoff (documento PDF):
+https://drive.google.com/file/d/13ULx0XDxDTZj_m6TrO3Xd_3ScrNewz3U/view?usp=sharing
 
-```markdown
-Syntax highlighted code block
+Guía completa en inglés:
+http://ewelink.coolkit.cc/?p=143
 
-# Header 1
-## Header 2
-### Header 3
+Videos de configuración: 
+Instalar app IOS Español: https://www.youtube.com/watch?v=ktxUtZRa0t8 
+Dar de alta Android Español: https://www.youtube.com/watch?v=lnpzx9SlGR0
 
-- Bulleted
-- List
+Instrucciones de la página oficial de la aplicación (inglés):
+https://www.itead.cc/wiki/EWeLink_Introduction
 
-1. Numbered
-2. List
+Instrucciones de la página oficial para hacer funcionar Sonoff con Amazon Alexa (inglés):
+https://www.itead.cc/blog/ewelink-works-with-alexa-tutorial#tutorial
 
-**Bold** and _Italic_ and `Code` text
+Instrucciones de la página oficial para hacer funcionar Sonoff con Google Home (inglés): https://www.itead.cc/blog/sonoff-work-with-google-home
 
-[Link](url) and ![Image](src)
-```
+Quedamos a tus órdenes por esta vía.
+¡Suerte! 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+   Equipo Cosismo
 
-### Jekyll Themes
+Notas Importantes para la instalación eléctrica:
+  1. Te sugerimos ampliamente que la instalación física sea realizada por un profesional. Si tienes conocimientos eléctricos y decides hacerlo por ti mismo, te recomendamos que leas muy bien las instrucciones del PDF anexo y tomes todas las precauciones para evitar dañar el dispositivo y/o tu instalación eléctrica.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cosismo/sonoff-5v/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  2. ESTE DISPOSITIVO DEBE ALIMENTARSE CON 5V. SI LO ALIMENTAS CON OTRO VOLTAJE SE DAÑARÁ IRREVERSIBLEMENTE. Para ello incluye un cargador microUSB 5v. A la salida sí puedes conectar cualquier voltaje entre 0-220V porque es un contacto «seco», totalmente aisaldo de la alimentación de entrada.
+  
+3. Verifica muy bien que utilices los contactos de salida COM y NO (normalmente abierto) para la salida. El contacto NC (normalmente cerrado) generalmente no se usa. 
+  
+4. Si vas a usar este dispositivo en modo pulso, asegúrate que esté configurado de esa manera, si conectas una cerradura o una puerta eléctrica en modo contínuo o self-locked, puede sdañar la cerradura, puerta o el dispositvo irreversiblemente. Para más detalles revisa el PDF anexo con la guía de instalación básica.
+  
+5. La carga máxima que soporta es de 10A (alrededor de 1000w.
+  
+6. El dispositivo tiene garantía contra defectos de fábrica, físicos (roturas, partes incompletas, etc.), no contra daño eléctrico causado por una mala instalación.

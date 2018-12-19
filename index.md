@@ -1,5 +1,4 @@
 # Información Técnica Sonoff 5V
-¡Gracias por tu compra! 
 
 Bienvenido al Internet de las Cosas.
 

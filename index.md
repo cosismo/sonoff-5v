@@ -12,20 +12,20 @@ Para comenzar a utilizar tu switch wifi Sonoff 5V y encontrar toda la informaci�
 ### Guía rápida en Español sobre cómo conectar el Sonoff (documento PDF):
 https://drive.google.com/file/d/13ULx0XDxDTZj_m6TrO3Xd_3ScrNewz3U/view?usp=sharing
 
-Guía completa en inglés:
+### Guía completa en inglés:
 http://ewelink.coolkit.cc/?p=143
 
-Videos de configuración: 
-Instalar app IOS Español: https://www.youtube.com/watch?v=ktxUtZRa0t8 
-Dar de alta Android Español: https://www.youtube.com/watch?v=lnpzx9SlGR0
+### Videos de configuración: 
+* Instalar app IOS Español: https://www.youtube.com/watch?v=ktxUtZRa0t8 
+* Dar de alta Android Español: https://www.youtube.com/watch?v=lnpzx9SlGR0
 
-Instrucciones de la página oficial de la aplicación (inglés):
+### Instrucciones de la página oficial de la aplicación (inglés):
 https://www.itead.cc/wiki/EWeLink_Introduction
 
-Instrucciones de la página oficial para hacer funcionar Sonoff con Amazon Alexa (inglés):
+### Instrucciones de la página oficial para hacer funcionar Sonoff con Amazon Alexa (inglés):
 https://www.itead.cc/blog/ewelink-works-with-alexa-tutorial#tutorial
 
-Instrucciones de la página oficial para hacer funcionar Sonoff con Google Home (inglés): 
+### Instrucciones de la página oficial para hacer funcionar Sonoff con Google Home (inglés): 
 https://www.itead.cc/blog/sonoff-work-with-google-home
 
 Quedamos a tus órdenes por esta vía.
@@ -33,7 +33,7 @@ Quedamos a tus órdenes por esta vía.
 
    Equipo Cosismo
 
-Notas Importantes para la instalación eléctrica:
+# Notas Importantes para la instalación eléctrica:
   1. Te sugerimos ampliamente que la instalación física sea realizada por un profesional. Si tienes conocimientos eléctricos y decides hacerlo por ti mismo, te recomendamos que leas muy bien las instrucciones del PDF anexo y tomes todas las precauciones para evitar dañar el dispositivo y/o tu instalación eléctrica.
 
   2. ESTE DISPOSITIVO DEBE ALIMENTARSE CON 5V. SI LO ALIMENTAS CON OTRO VOLTAJE SE DAÑARÁ IRREVERSIBLEMENTE. Para ello incluye un cargador microUSB 5v. A la salida sí puedes conectar cualquier voltaje entre 0-220V porque es un contacto «seco», totalmente aisaldo de la alimentación de entrada.

@@ -29,7 +29,6 @@ Para comenzar a utilizar tu switch wifi Sonoff 5V y encontrar toda la informaci�
 ### Instrucciones de la página oficial para hacer funcionar Sonoff con Google Home (inglés): 
 [https://www.itead.cc/blog/sonoff-work-with-google-home](https://www.itead.cc/blog/sonoff-work-with-google-home)
 
-Quedamos a tus órdenes por esta vía.
 ¡Suerte! 
 
    Equipo Cosismo
@@ -37,7 +36,7 @@ Quedamos a tus órdenes por esta vía.
 # Notas Importantes para la instalación eléctrica:
   1. Te sugerimos ampliamente que la instalación física sea realizada por un profesional. Si tienes conocimientos eléctricos y decides hacerlo por ti mismo, te recomendamos que leas muy bien las instrucciones del PDF anexo y tomes todas las precauciones para evitar dañar el dispositivo y/o tu instalación eléctrica.
 
-  2. ESTE DISPOSITIVO DEBE ALIMENTARSE CON 5V. SI LO ALIMENTAS CON OTRO VOLTAJE SE DAÑARÁ IRREVERSIBLEMENTE. Para ello incluye un cargador microUSB 5v. A la salida sí puedes conectar cualquier voltaje entre 0-220V porque es un contacto «seco», totalmente aisaldo de la alimentación de entrada.
+  2. ESTE DISPOSITIVO DEBE ALIMENTARSE CON 5V. SI LO ALIMENTAS CON OTRO VOLTAJE SE DAÑARÁ IRREVERSIBLEMENTE. Para ello incluye un cargador microUSB 5v 2A la salida sí puedes conectar cualquier voltaje entre 0-220V porque es un contacto «seco», totalmente aisaldo de la alimentación de entrada. **El problema más común de este dispositivo tiene como síntoma que el switch se prende y se apaga por sí mismo y es causado por una fuente o cable de alimebtación de menos capacidad que los 2A. Usa una fuente de al menos 2 amperes para evitar esto.**
   
 3. Verifica muy bien que utilices los contactos de salida COM y NO (normalmente abierto) para la salida. El contacto NC (normalmente cerrado) generalmente no se usa. 
   

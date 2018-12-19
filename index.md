@@ -7,8 +7,8 @@ Para comenzar a utilizar tu switch wifi Sonoff 5V y encontrar toda la informaci�
 
 Aplicación para control:
 
-Android: [Google PLay][https://play.google.com/store/apps/details?id=com.coolkit&hl=en]
-IOS: [App Store][https://itunes.apple.com/us/app/ewelink/id1035163158?mt=8]
+Android: https://play.google.com/store/apps/details?id=com.coolkit&hl=en
+IOS: App Store][https://itunes.apple.com/us/app/ewelink/id1035163158?mt=8
 
 Guía rápida en Español sobre cómo conectar el Sonoff (documento PDF):
 https://drive.google.com/file/d/13ULx0XDxDTZj_m6TrO3Xd_3ScrNewz3U/view?usp=sharing

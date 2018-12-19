@@ -10,23 +10,24 @@ Para comenzar a utilizar tu switch wifi Sonoff 5V y encontrar toda la informaci�
 * IOS: [https://itunes.apple.com/us/app/ewelink/id1035163158?mt=8](https://itunes.apple.com/us/app/ewelink/id1035163158?mt=8)
 
 ### Guía rápida en Español sobre cómo conectar el Sonoff (documento PDF):
-https://drive.google.com/file/d/13ULx0XDxDTZj_m6TrO3Xd_3ScrNewz3U/view?usp=sharing
+[https://drive.google.com/file/d/13ULx0XDxDTZj_m6TrO3Xd_3ScrNewz3U/view?usp=sharing](https://drive.google.com/file/d/13ULx0XDxDTZj_m6TrO3Xd_3ScrNewz3U/view?usp=sharing)
 
 ### Guía completa en inglés:
-http://ewelink.coolkit.cc/?p=143
+[http://ewelink.coolkit.cc/?p=143](http://ewelink.coolkit.cc/?p=143)
+
 
 ### Videos de configuración: 
-* Instalar app IOS Español: https://www.youtube.com/watch?v=ktxUtZRa0t8 
-* Dar de alta Android Español: https://www.youtube.com/watch?v=lnpzx9SlGR0
+* Instalar app IOS Español: [https://www.youtube.com/watch?v=ktxUtZRa0t8 ](https://www.youtube.com/watch?v=ktxUtZRa0t8)
+* Dar de alta Android Español: [https://www.youtube.com/watch?v=lnpzx9SlGR0](https://www.youtube.com/watch?v=lnpzx9SlGR0)
 
 ### Instrucciones de la página oficial de la aplicación (inglés):
-https://www.itead.cc/wiki/EWeLink_Introduction
+[https://www.itead.cc/wiki/EWeLink_Introduction](https://www.itead.cc/wiki/EWeLink_Introduction)
 
 ### Instrucciones de la página oficial para hacer funcionar Sonoff con Amazon Alexa (inglés):
-https://www.itead.cc/blog/ewelink-works-with-alexa-tutorial#tutorial
+[https://www.itead.cc/blog/ewelink-works-with-alexa-tutorial#tutorial](https://www.itead.cc/blog/ewelink-works-with-alexa-tutorial#tutorial)
 
 ### Instrucciones de la página oficial para hacer funcionar Sonoff con Google Home (inglés): 
-https://www.itead.cc/blog/sonoff-work-with-google-home
+[https://www.itead.cc/blog/sonoff-work-with-google-home](https://www.itead.cc/blog/sonoff-work-with-google-home)
 
 Quedamos a tus órdenes por esta vía.
 ¡Suerte! 

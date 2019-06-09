@@ -54,6 +54,6 @@ Las instrucciones completas de este modo están en el manual (inglés) en el pun
   
 4. Si vas a usar este dispositivo en modo pulso, asegúrate que esté configurado de esa manera, si conectas una cerradura o una puerta eléctrica en modo contínuo o self-locked, puede sdañar la cerradura, puerta o el dispositvo irreversiblemente. Para más detalles revisa el PDF anexo con la guía de instalación básica.
   
-5. La carga máxima que soporta es de 10A (alrededor de 1000w.
+5. La carga máxima que soporta es de 10A (alrededor de 1000w).
   
 6. El dispositivo tiene garantía contra defectos de fábrica, físicos (roturas, partes incompletas, etc.), no contra daño eléctrico causado por una mala instalación.

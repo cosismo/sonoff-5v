@@ -34,8 +34,8 @@ Por diversas razones de compatibilidad (el módem, el smartphone, el firmware, e
 Aquí un video de cómo parpadea el LED cuando se presiona la primera y la segunda vez (se muestra un sonoff basic, pero el funcionamiento en el Sonoff 5v es el mismo):
 
 https://www.youtube.com/watch?v=iCRq5obr_SE
-Las instrucciones completas de este modo están en el manual (inglés) en el punto 3.2.b Compatible Pairing Mode.
 
+Las instrucciones completas de este modo están en el manual (inglés) en el punto 3.2.b Compatible Pairing Mode.
 [http://ewelink.coolkit.cc/?p=143](http://ewelink.coolkit.cc/?p=143)
 
 ¡Suerte! 

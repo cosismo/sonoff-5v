@@ -31,9 +31,9 @@ Para comenzar a utilizar tu switch wifi Sonoff 5V y encontrar toda la informaci�
 ### ¿Qué hacer si la App no puede detectar el dispositivo después de los 3 minutos que indica el manual?
 Por diversas razones de compatibilidad (el módem, el smartphone, el firmware, el sistema operativo) en algunas ocasiones no es posible configurar de la manera "normal" (Quick pairing Mode), pues la App se queda buscando el dispositivo y nunca lo encuentra. 
 
-En este caso la solución es usar el modo de emparejamiento compatible (Compatible Pairing Mode AP) que convierte al sonoff en un Access Point inalámbrico y te permite acceder a él sin necesidad de tu módem WiFi. 
+En este caso la solución es usar el modo de emparejamiento compatible (Compatible Pairing Mode AP) que convierte al sonoff en un Access Point inalámbrico y te permite configurarlo sin necesidad de tu módem WiFi. 
 
-En el modo de apareamiento compatibible, al que llegas presionando dos veces durante aproximadamente 7 segundos el botón de apareamiento (ver video al final de este párrafo), te aparecerá una red inalámbrica ITEAD-****** con un password 12345678 Conectate a ella y después regresas a la App (sin desconectarte de la red ITEAD-******) y podrás configurar el Sonoff presionando el botón de modo de apareamiento compatible (Compatible Pairing Mode).
+En el modo de apareamiento compatibible, al que llegas presionando dos veces durante aproximadamente 7 segundos el botón de apareamiento (ver video al final de este párrafo), te aparecerá una red inalámbrica ITEAD-****** con un password 12345678 Conéctate a ella y después regresas a la App (sin desconectarte de la red ITEAD-******) y podrás configurar el Sonoff presionando el botón de modo de apareamiento compatible (Compatible Pairing Mode).
 
 Aquí un video de cómo parpadea el LED cuando se presiona la primera y la segunda vez (se muestra un sonoff basic, pero el funcionamiento en el Sonoff 5v es el mismo):
 https://www.youtube.com/watch?v=iCRq5obr_SE

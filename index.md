@@ -28,6 +28,13 @@ Para comenzar a utilizar tu switch wifi Sonoff 5V y encontrar toda la informaci�
 ### Instrucciones de la página oficial para hacer funcionar Sonoff con Google Home (inglés): 
 [https://www.itead.cc/blog/sonoff-work-with-google-home](https://www.itead.cc/blog/sonoff-work-with-google-home)
 
+### ¿Qué hacer si la App no puede detectar el dispositivo después de los 3 minutos que indica el manual?
+Por diversas razones de compatibilidad (el módem, el smartphone, el firmware, el sistema operativo) en algunas ocasiones no es posible configurar de la manera "normal" (Quick pairing Mode), pues la App se queda buscando el dispositivo y nunca lo encuentra. En este caso la solución es usar el modo de emparejamiento compatible (Compatible Pairing Mode AP) que convierte al sonoff en un Access Point inalámbrico y te permite acceder a él sin necesidad de tu módem WiFi. En el modo de apareamiento compatibible, al que llegas presionando dos veces durante aproximadamente 7 segundos el botón de apareamiento (ver video al final de este párrafo), te aparecerá una red inalámbrica ITEAD-****** con un password 12345678 Conectate a ella y después regresas a la App (sin desconectarte de la red ITEAD-******) y podrás configurar el Sonoff presionando el botón de modo de apareamiento compatible (Compatible Pairing Mode).
+Aquí un video de cómo parpadea el LED cuando se presiona la primera y la segunda vez (se muestra un sonoff basic, pero el funcionamiento en el Sonoff 5v es el mismo):
+https://www.youtube.com/watch?v=iCRq5obr_SE
+Las instrucciones completas de este modo están en el manual (inglés) en el punto 3.2.b Compatible Pairing Mode.
+[http://ewelink.coolkit.cc/?p=143](http://ewelink.coolkit.cc/?p=143)
+
 ¡Suerte! 
 
    Equipo Cosismo
@@ -35,7 +42,7 @@ Para comenzar a utilizar tu switch wifi Sonoff 5V y encontrar toda la informaci�
 # Notas Importantes para la instalación eléctrica:
   1. Te sugerimos ampliamente que la instalación física sea realizada por un profesional. Si tienes conocimientos eléctricos y decides hacerlo por ti mismo, te recomendamos que leas muy bien las instrucciones del PDF anexo y tomes todas las precauciones para evitar dañar el dispositivo y/o tu instalación eléctrica.
 
-  2. ESTE DISPOSITIVO DEBE ALIMENTARSE CON 5V. SI LO ALIMENTAS CON OTRO VOLTAJE SE DAÑARÁ IRREVERSIBLEMENTE. Para ello incluye un cargador microUSB 5v 2A la salida sí puedes conectar cualquier voltaje entre 0-220V porque es un contacto «seco», totalmente aisaldo de la alimentación de entrada. **El problema más común de este dispositivo tiene como síntoma que el switch se prende y se apaga por sí mismo, y es causado por una fuente o cable de alimentación de menos capacidad que los 2A. Usa una fuente con la capacidad correcta y de buena calidad para evitar este problema.**
+  2. ESTE DISPOSITIVO DEBE ALIMENTARSE CON 5V. SI LO ALIMENTAS CON OTRO VOLTAJE SE DAÑARÁ IRREVERSIBLEMENTE. Usa un cargador microUSB 5v 2A para alimentarlo. A la salida sí puedes conectar cualquier voltaje entre 0-220V porque es un contacto «seco», totalmente aisaldo de la alimentación de entrada. **El problema más común de este dispositivo tiene como síntoma que el switch se prende y se apaga por sí mismo, y es causado por una fuente o cable de alimentación de menos capacidad que los 2A. Usa una fuente con la capacidad correcta y de buena calidad para evitar este problema.**
   
 3. Verifica muy bien que utilices los contactos de salida COM y NO (normalmente abierto) para la salida. El contacto NC (normalmente cerrado) generalmente no se usa. 
   

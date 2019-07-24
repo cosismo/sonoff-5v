@@ -39,7 +39,7 @@ Aquí un video de cómo parpadea el LED cuando se presiona la primera y la segun
 [https://www.youtube.com/watch?v=iCRq5obr_SE](https://www.youtube.com/watch?v=iCRq5obr_SE)
 
 Las instrucciones completas de este modo están en el manual (inglés) en el punto 3.2.b Compatible Pairing Mode.  
-[http://ewelink.coolkit.cc/?p=143](https://www.youtube.com/watch?v=iCRq5obr_SE)
+[http://ewelink.coolkit.cc/?p=143](http://ewelink.coolkit.cc/?p=143)
 
 ¡Suerte! 
 

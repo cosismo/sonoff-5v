@@ -29,8 +29,9 @@ Para comenzar a utilizar tu switch wifi Sonoff 5V y encontrar toda la informaci�
 [https://www.itead.cc/blog/sonoff-work-with-google-home](https://www.itead.cc/blog/sonoff-work-with-google-home)
 
 ### Video de cómo compartir el dispositivo para que varios smartphones puedan usarlo:
-En caso de que quieras usar el dispositivo con varios smartphones, cada teléfono debe usar una cuenta /usuario diferente. Y el primero que registró el dispositivo se vuelve el "maestro" o "dueño" del dispositivo que puede compartirlo a los demás:  
-https://www.youtube.com/watch?v=px5f2ft7wxY
+En caso de que quieras usar el dispositivo con varios smartphones, cada teléfono debe usar una cuenta /usuario diferente. Y el primero que registró el dispositivo se vuelve el "maestro" o "dueño" del dispositivo que puede compartirlo a los demás.  
+https://www.youtube.com/watch?v=px5f2ft7wxY  
+Nota: No se puede usar la misma cuenta en dos celulares, los servidores lo pueden interpretar como un acceso no autorizado de  alguien que quiere controlar tu dispositivo sin permiso y bloquearte.
 
 ### ¿Qué hacer si la App no puede detectar el dispositivo después de los 3 minutos que indica el manual?
 Por diversas razones de compatibilidad (el módem, el smartphone, el firmware, el sistema operativo) en algunas ocasiones no es posible configurar de la manera "normal" (Quick pairing Mode), pues la App se queda buscando el dispositivo y nunca lo encuentra. 
